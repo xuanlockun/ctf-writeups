@@ -83,4 +83,4 @@ Vậy vô burpe suite và post với vote=0.000000001 thôi
 Lần 1 thì Score = -0.42069 + 1 nên chưa lớn hơn 1 được
 Nên phải post 2 lần là score > 1 
 
-![2]([/Resource/image.png](https://github.com/xuanlockun/ctf-writeups/blob/main/Grey%20Cat%20The%20Flag%202024%20Qualifiers/Greyctf%20Survey/Resource/image.png))
+!([/Resource/image.png](https://github.com/xuanlockun/ctf-writeups/blob/main/Grey%20Cat%20The%20Flag%202024%20Qualifiers/Greyctf%20Survey/Resource/image.png))
