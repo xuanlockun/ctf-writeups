@@ -1,6 +1,6 @@
 Đây là trang web của challenge này.
 
-![a](/Resource/1.png)
+![](https://github.com/xuanlockun/ctf-writeups/blob/main/Grey%20Cat%20The%20Flag%202024%20Qualifiers/Greyctf%20Survey/Resource/1.png)
 
 
 Đây là code của sever:
